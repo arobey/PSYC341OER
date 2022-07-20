@@ -150,8 +150,6 @@ decnav:
     children:
       - title: Judgement and Decision Making
         url: https://bobsthinktank.github.io/PSYC341OER/_pages/decisionmaking.html
-      - title: Applied Decision Making (TBA)
-        url: 
   - title: Other Resources
     children:
       - title: Wason Selection Task
